@@ -1,0 +1,10 @@
+name: asealr
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.8
+  - pip:
+      - numpy==1.23.1
+      - praat-parselmouth==0.4.1
+      - tgt==1.4.4

@@ -1,3 +1,13 @@
+### 
+
+# Jarinos data
+data/Jarinos/*
+
+# old code folder
+seal-code/*
+
+### Default python .gitignore below
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
