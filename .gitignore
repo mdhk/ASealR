@@ -1,5 +1,8 @@
 ### 
 
+# Mac file
+.DS_Store
+
 # Jarinos data
 data/Jarinos/*
 
