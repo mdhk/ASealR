@@ -5,6 +5,7 @@
 
 # Jarinos data
 data/Jarinos/*
+data/
 
 # old code folder
 seal-code/*
