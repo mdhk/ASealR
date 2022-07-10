@@ -3,6 +3,9 @@
 # Mac file
 .DS_Store
 
+# sample data
+data/ZOOM0004b/*
+
 # Jarinos data
 data/Jarinos/*
 
